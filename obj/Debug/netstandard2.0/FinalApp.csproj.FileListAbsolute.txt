@@ -1,0 +1,14 @@
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.deps.json
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.dll
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.pdb
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.csprojAssemblyReference.cache
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.csproj.CoreCompileInputs.cache
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.AssemblyInfoInputs.cache
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.AssemblyInfo.cs
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.dll
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.pdb
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FodyWeavers.xaml.g.cs
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\Views\ListView.xaml.g.cs
+C:\Users\aodhan\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\XamlC.stamp

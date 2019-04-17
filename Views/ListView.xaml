@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoXamarinForms.TodoListView"
+             Title="{Binding Title}">
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding GroupedList}"
+            IsGroupingEnabled="True"
+            GroupDisplayBinding="{Binding Key}"
+            x:Name="DisplayList">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Title}" >
+                        <TextCell.ContextActions>
+                            <MenuItem Command="{Binding Source={x:Reference DisplayList}, Path=BindingContext.ChangeIsCompleted }"
+                                CommandParameter="{Binding .}" Text="Complete" />
+                            <MenuItem Command="{Binding Source={x:Reference DisplayList}, Path=BindingContext.Delete }" 
+                                CommandParameter="{Binding .}" Text="Delete" IsDestructive="True" />
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>
